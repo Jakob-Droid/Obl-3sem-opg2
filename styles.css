@@ -1,0 +1,28 @@
+
+header{
+    background-color: #FFF387;
+    display: block;
+    width: 100%;
+    margin-bottom: 1vh;
+}
+
+#columnLinks ul li{
+    margin-left: 2vw;
+    margin-top: 5vh;
+
+}
+/* 600px */
+    @media(min-width: 992px)
+    {
+        .card{
+            
+    width: auto;
+}}
+/* @media(min-width: 1170px){
+    .card{
+        margin-left: 2vw;
+}}
+@media(min-width: 992px){
+   
+} */
+
